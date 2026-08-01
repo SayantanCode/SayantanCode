@@ -124,7 +124,7 @@ for Express — with built-in Mongoose, Zod, JWT, Multer, and Axios support.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SayantanCode&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-trophies.vercel.app/?username=SayantanCode&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
 
 <br/>
 
