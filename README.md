@@ -22,6 +22,9 @@
   <a href="https://www.linkedin.com/in/sayantan-chakraborty-code/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<!-- Profile view counter — page-view count, not unique visitors -->
+<img src="https://komarev.com/ghpvc/?username=SayantanCode&label=Profile%20Views&color=00c9ff&style=for-the-badge" />
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00C9FF" width="100%"/>
 
 </div>
@@ -32,19 +35,18 @@
 
 ```ts
 const developer = {
-  name: "Sayantan Chakraborty",
-  stack: ["MongoDB", "Express", "React", "Node.js", "TypeScript"],
-  focus: "backend-heavy, full-stack capable",
+  role: "Backend-focused Full Stack Developer",
+  experience: "2+ years",
+  stack: ["TypeScript", "Node.js", "Express", "React", "MongoDB", "Redis"],
   approach: "plan the system thoroughly before touching implementation",
   worksSolo: true,
-  leansOnAI: "uses AI tooling heavily to move faster and go deeper as a solo builder",
 };
 ```
 
 Full stack developer, backend-focused, with about 2 years of experience.
 I plan systems out thoroughly before writing code, and work independently
-end-to-end on my own projects — leaning on AI tooling as a force multiplier
-to build and ship faster without a team behind me.
+end-to-end on my own projects — using AI-assisted workflows to move faster
+without a team behind me.
 
 ---
 
@@ -77,6 +79,12 @@ to build and ship faster without a team behind me.
 | 🚀 **Deployent** | Render · Netlify |
 
 </div>
+
+---
+
+## 🧠 What I'm Into
+
+Backend APIs & system design · Real-time systems · Developer tooling · Distributed systems & scalability
 
 ---
 
@@ -128,6 +136,10 @@ for Express — with built-in Mongoose, Zod, JWT, Multer, and Axios support.
 
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=SayantanCode&theme=tokyonight&hide_border=true" />
+
+<br/>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SayantanCode&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00c9ff&point=7fffd4&hide_border=true" />
 
 </div>
@@ -148,7 +160,7 @@ for Express — with built-in Mongoose, Zod, JWT, Multer, and Axios support.
 
 <div align="center">
 
-If something here is useful to you, a ⭐ goes a long way.
+Always building. Always learning. Always shipping.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=110&section=footer" width="100%"/>
 
