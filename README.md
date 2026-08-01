@@ -19,9 +19,8 @@
   <a href="https://github.com/SayantanCode"><img src="https://img.shields.io/badge/GitHub-SayantanCode-0f2027?style=for-the-badge&logo=github&logoColor=00C9FF&labelColor=000000" /></a>
   <a href="https://www.npmjs.com/~sayantan_chakraborty"><img src="https://img.shields.io/badge/npm-sayantan__chakraborty-0f2027?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=000000" /></a>
   <a href="mailto:sayantan648@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0f2027?style=for-the-badge&logo=gmail&logoColor=00C9FF&labelColor=000000" /></a>
-  <a href="https://www.linkedin.com/in/sayantan-chakraborty-code/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sayantan-chakraborty-code/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f2027?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzAwNzdCNSIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMSAxaDE0djE0SDF6Ii8+PHBhdGggZD0iTTAgMS4xNDZDMCAuNTEzLjUyNiAwIDEuMTc1IDBoMTMuNjVDMTUuNDc0IDAgMTYgLjUxMyAxNiAxLjE0NnYxMy43MDhjMCAuNjMzLS41MjYgMS4xNDYtMS4xNzUgMS4xNDZIMS4xNzVDLjUyNiAxNiAwIDE1LjQ4NyAwIDE0Ljg1NHptNC45NDMgMTIuMjQ4VjYuMTY5SDIuNTQydjcuMjI1em0tMS4yLTguMjEyYy44MzcgMCAxLjM1OC0uNTU0IDEuMzU4LTEuMjQ4LS4wMTUtLjcwOS0uNTItMS4yNDgtMS4zNDItMS4yNDhTMi40IDMuMjI2IDIuNCAzLjkzNGMwIC42OTQuNTIxIDEuMjQ4IDEuMzI3IDEuMjQ4em00LjkwOCA4LjIxMlY5LjM1OWMwLS4yMTYuMDE2LS40MzIuMDgtLjU4Ni4xNzMtLjQzMS41NjgtLjg3OCAxLjIzMi0uODc4Ljg2OSAwIDEuMjE2LjY2MiAxLjIxNiAxLjYzNHYzLjg2NWgyLjQwMVY5LjI1YzAtMi4yMi0xLjE4NC0zLjI1Mi0yLjc2NC0zLjI1Mi0xLjI3NCAwLTEuODQ1LjctMi4xNjUgMS4xOTN2LjAyNWgtLjAxNmwuMDE2LS4wMjVWNi4xNjloLTIuNGMuMDMuNjc4IDAgNy4yMjUgMCA3LjIyNXoiLz48L3N2Zz4=&labelColor=000000" /></a>
 </p>
-
 <!-- Profile view counter — page-view count, not unique visitors -->
 <img src="https://komarev.com/ghpvc/?username=SayantanCode&label=Profile%20Views&color=00c9ff&style=for-the-badge" />
 
